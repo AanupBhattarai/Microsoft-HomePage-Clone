@@ -1,6 +1,6 @@
 # Microsoft-HomePage-Clone
 
-This is a simplified cloned version of the original Microsoft ( https://www.microsoft.com ) website. This simplified cloned version was created using HTML, CSS & JS.
+This is a simplified cloned version of the original Microsoft ( https://www.microsoft.com ) website. This simplified cloned version was created using HTML, CSS & JS. You can check out this web in the live preview.
 
 ## Screenshots
 
